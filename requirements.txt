@@ -1,0 +1,6 @@
+pyperclip
+xlrd
+pyautogui==0.9.50
+opencv-python
+pillow
+pywin32
